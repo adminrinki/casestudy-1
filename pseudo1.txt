@@ -1,0 +1,4 @@
+Take two numbers A,B
+Take a variable C to see the results
+C=A+B
+print the result-C
