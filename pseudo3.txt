@@ -1,0 +1,4 @@
+Take two numbers G,H
+Take a variable I to see the results
+I=G+H
+print the result-I
